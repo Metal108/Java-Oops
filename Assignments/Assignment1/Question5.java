@@ -20,7 +20,7 @@ public class Question5 {
         }
         if(sum==i) {
             System.out.println(i);
-        }
+        }//
      }
 }
 }
